@@ -1,0 +1,42 @@
+[00:00:32]: [Announcement] hound attack in6.8day
+[07:26:55]: [Join Announcement] Baymax
+[07:27:45]: [Join Announcement] rice
+[07:30:32]: [Join Announcement] moximoxi1994
+[07:36:13]: [Join Announcement] weitao201
+[07:37:56]: [Leave Announcement] weitao201
+[07:40:19]: [Join Announcement] weitao201
+[07:40:39]: [Announcement] hound attack in5.9day
+[07:40:39]: [Announcement] worm attack in0day
+[07:48:40]: [Announcement] hound attack in4.9day
+[07:48:40]: [Announcement] worm attack in0day
+[07:51:42]: [Leave Announcement] rice
+[07:52:57]: [Join Announcement] rice
+[07:55:09]: [Death Announcement] rice 死于： 饥饿。她变成了可怕的鬼魂！
+[07:55:14]: [Leave Announcement] weitao201
+[07:56:00]: [Death Announcement] moximoxi1994 死于： 蜘蛛。她变成了可怕的鬼魂！
+[07:56:08]: [Leave Announcement] rice
+[07:56:35]: [Say] (KU_jheZTbtg) Baymax: resurrect
+[07:56:41]: [Announcement] hound attack in3.9day
+[07:56:41]: [Announcement] worm attack in0day
+[07:57:04]: [Join Announcement] weitao201
+[07:58:05]: [Join Announcement] rice
+[08:00:56]: [Death Announcement] Baymax 死于： 青蛙。她变成了可怕的鬼魂！
+[08:01:03]: [Say] (KU_8EfLGuJB) moximoxi1994: resurrect
+[08:01:25]: [Leave Announcement] rice
+[08:04:31]: [Join Announcement] rice
+[08:04:41]: [Announcement] hound attack in2.9day
+[08:04:41]: [Announcement] worm attack in0day
+[08:06:49]: [Leave Announcement] Baymax
+[08:08:38]: [Join Announcement] Baymax
+[08:10:27]: [Leave Announcement] Baymax
+[08:11:02]: [Leave Announcement] rice
+[08:12:10]: [Death Announcement] weitao201 死于： 爬行恐惧。他变成了可怕的鬼魂！
+[08:12:42]: [Announcement] hound attack in1.9day
+[08:12:42]: [Announcement] worm attack in0day
+[08:13:57]: [Join Announcement] rice
+[08:14:41]: [Announcement] hound attack in0day
+[08:14:41]: [Announcement] worm attack in0day
+[08:15:00]: [Announcement] worm attack in0day
+[08:15:15]: [Leave Announcement] rice
+[08:15:15]: [Leave Announcement] weitao201
+[08:15:15]: [Leave Announcement] moximoxi1994

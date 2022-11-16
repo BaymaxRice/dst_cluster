@@ -1,0 +1,11 @@
+[00:00:30]: [Announcement] worm attack in0day
+[00:02:09]: [Join Announcement] rice
+[00:02:18]: [Join Announcement] Baymax
+[00:05:20]: [Leave Announcement] rice
+[00:06:14]: [Join Announcement] rice
+[00:06:47]: [Leave Announcement] Baymax
+[00:07:37]: [Join Announcement] Baymax
+[00:07:52]: [Leave Announcement] rice
+[00:08:21]: [Leave Announcement] Baymax
+[00:09:04]: [Join Announcement] Baymax
+[00:10:05]: [Leave Announcement] Baymax

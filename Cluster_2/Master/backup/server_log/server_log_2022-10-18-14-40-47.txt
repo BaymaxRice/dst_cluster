@@ -1,0 +1,69 @@
+[00:00:00]: PersistRootStorage is now /Users/baymax/Documents/Klei//DoNotStarveTogether/151941097/Cluster_1/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 522521
+[00:00:00]: Current time: Tue Oct 18 13:39:53 2022
+
+[00:00:00]: Don't Starve Together: 522521 OSX
+[00:00:00]: Build Date: 7295
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -monitor_parent_process 30078 -persistent_storage_root /Users/baymax/Documents/Klei/ -conf_dir DoNotStarveTogether -cluster Cluster_1 -ownernetid 76561198112206825 -ownerdir 151941097 -clouddir 151941097 -backup_log_count 25 -backup_log_period 0 -ugc_directory /Users/baymax/Library/Application Support/Steam/steamapps/workshop -shard Master -secondary_log_prefix master -sigprefix DST_Master -token *********************************************************************************** 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: ....Done
+[00:00:00]: THREAD - started 'GAClient' (123145541554176)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(10999, 27016)
+[00:00:01]: [Steam] SteamGameServer_Init success
+[00:00:01]: ProfileIndex:3.35
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: THREAD - started 'Ping Job Thread' (123145552150528)
+[00:00:01]: Platform: 1
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: THREAD - started 'StreamInput' (123145554259968)
+[00:00:01]: OnLoadPermissionList: /Users/baymax/Documents/Klei//DoNotStarveTogether/151941097/client_save/blocklist.txt (Failure)
+[00:00:01]: OnLoadPermissionList: /Users/baymax/Documents/Klei//DoNotStarveTogether/151941097/client_save/adminlist.txt (Failure)
+[00:00:01]: OnLoadUserIdList: /Users/baymax/Documents/Klei//DoNotStarveTogether/151941097/client_save/whitelist.txt (Failure)
+[00:00:01]: Offline user ID: OU_76561198112206825
+[00:00:01]: HardwareStats:
+  OS                        
+    name                      Darwin
+    version                   21.6.0
+    platformSpecific          
+    architecture              64-bit
+  CPU                       
+    clockSpeed                2600
+    name                      Intel(R) Core(TM) i7-8850H CPU @ 2.60GHz
+    manufacturer              GenuineIntel
+    numCores                  6
+    features                  
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    megsOfRam                 0
+    videoModeDescription      
+    name                      
+    driverVersion             
+    driverDate                
+    refreshRate               3102226368
+
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: AppVersion::GetArchitecture() x64
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:00:03]:   taskgrouplist:	default	

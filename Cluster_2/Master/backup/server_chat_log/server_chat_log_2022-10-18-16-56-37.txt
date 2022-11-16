@@ -1,0 +1,5 @@
+[00:00:36]: [Announcement] hound attack in0day
+[00:02:51]: [Join Announcement] Baymax
+[00:16:01]: [Join Announcement] rice
+[00:23:43]: [Leave Announcement] Baymax
+[00:25:49]: [Leave Announcement] rice
